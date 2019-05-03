@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElsevierSoftwareX/SOFTX_2018_240/master)
 # HexagDLy - Processing Hexagonal Data with PyTorch
 
 HexagDLy provides convolution and pooling methods for hexagonally sampled data within the deep learning framework [PyTorch](https://github.com/pytorch/pytorch).
